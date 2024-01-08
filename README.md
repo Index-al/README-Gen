@@ -45,4 +45,4 @@ This is a one-off little thing so you may have to contact me directly to get you
 ## ❓ Questions
 
 Got questions?
-Feel free to open an issue or contact me directly [here](DanTCathey@gmail). View more of my work on my [GitHub page](https://github.com/Index-al).
+Feel free to open an issue or contact me directly [here](mailto:DanTCathey@gmail). View more of my work on my [GitHub page](https://github.com/Index-al).
